@@ -1,14 +1,14 @@
 # Brent-oil-price-forecasting-base-deep-learning-models
-implementing various deep learning networks with Pytorch and Keras using multivariate timeseries data.
+Implementation of various deep learning networks with Pytorch and Keras using multivariate timeseries data.
 Five included models and over 100 metaheuristic algorithm available:
-## available models:
+#### available models:
 1. LSTM / Bi-LSTM
 2. GRU/Bi-GRU
 3. CNN-LSTM
 4. CNN-LSTM-Attention
 5. Encoder-Decoder-LSTM
 
-##Meta-heuristic 
+####Meta-heuristic 
 This code is built upon mealpy library which includes over 100 metaheuristic algorithm
 ```
 @article{van2023mealpy,
@@ -20,7 +20,7 @@ This code is built upon mealpy library which includes over 100 metaheuristic alg
    doi={10.1016/j.sysarc.2023.102871}
 }
 ```
-## How to use it:
+### How to use it:
 1. clone the repos.
 2. Create your own env and install required packages
 ```
