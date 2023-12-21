@@ -1,6 +1,6 @@
 # Brent-oil-price-forecasting-base-deep-learning-models
 implementing various deep learning networks with Pytorch and Keras using multivariate timeseries data.
-# Five included models and over 100 metaheuristic algorithm available:
+Five included models and over 100 metaheuristic algorithm available:
 ## available models:
 1. LSTM / Bi-LSTM
 2. GRU/Bi-GRU
